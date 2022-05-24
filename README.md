@@ -1,6 +1,6 @@
 ### Hi there 👋 !
 
-![](https://komarev.com/ghpvc/?username=frulko&color=green)
+![](https://komarev.com/ghpvc/?username=frulko&color=blue)
 
 <!--
 **Frulko/Frulko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
